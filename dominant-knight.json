@@ -1,0 +1,28 @@
+{
+  "name": "Dominant Knight",
+  "symbol": "DKL",
+  "description": "The Dominant Knight Lottery stands for courage, control, and sharp strategy. Play to charge ahead and win big in the WiniSol Knight tier.",
+  "image": "https://res.cloudinary.com/winisol/image/upload/v1745738248/knight_nfte3e.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Lottery",
+      "value": "King"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://res.cloudinary.com/winisol/image/upload/v1745736670/King_q8httk.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "RJtnLDyB6pZUWDZ7qZE8nCakas6eaofnqKyBDB7Xf1A",
+        "share": 100
+      }
+    ]
+  }
+}
