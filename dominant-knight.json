@@ -7,13 +7,13 @@
   "attributes": [
     {
       "trait_type": "Lottery",
-      "value": "King"
+      "value": "Kinght"
     }
   ],
   "properties": {
     "files": [
       {
-        "uri": "https://res.cloudinary.com/winisol/image/upload/v1745736670/King_q8httk.png",
+        "uri": "https://res.cloudinary.com/winisol/image/upload/v1745738248/knight_nfte3e.png",
         "type": "image/png"
       }
     ],
